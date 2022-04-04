@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+## Code Queen 6 Blog
 
-<h2>My First JavaScript</h2>
-
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to learn Javascript.</button>
-
-<p id="demo"></p>
-
-</body>
-</html> 
+- Simple blog post
+![](databasescreenshot.jpg)
